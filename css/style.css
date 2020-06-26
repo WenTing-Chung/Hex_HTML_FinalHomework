@@ -38,6 +38,9 @@ a { text-decoration: none; }
 .nav {
   background: #fff;
 }
+.nav-logo {
+  display: block;
+}
 .nav::after {
   content: '';
   display: block;
