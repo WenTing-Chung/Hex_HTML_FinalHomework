@@ -198,6 +198,9 @@ a { text-decoration: none; }
   border: none;
   cursor: pointer;
 }
+.userInfo-btn:hover {
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, .3) inset;
+}
 
 .footer {
   padding: 20px;
